@@ -1,5 +1,5 @@
 # Estatística-Descritiva
-Estatística Descritiva - Pós Graduação
+Estatística Descritiva - Pós Graduação Ciência de Dados e Big Data Analytics
 #
 Segundo a Agência Nacional de Energia Elétrica (ANEEL), atualmente a taxa de aumento médio no preço de energia elétrica por ano é de aproximadamente 2%. Devido a esse constante aumento do preço da energia, alguns consumidores começaram a pensar em soluções para reduzir o custo da conta de energia elétrica. 
 
