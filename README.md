@@ -1,2 +1,2 @@
-# Estat-stica-Descritiva
+# Estatística-Descritiva
 Estatística Descritiva - Pós Graduação
